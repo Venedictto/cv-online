@@ -99,11 +99,19 @@ const rightColumnData = {
             titleColor:'#a83269',
             data:[
                 {
+                    title:'Mercadolibre S.R.L.',
+                    subTitle:'Front-End web developer',
+                    from:'2020',
+                    to:'Act.',
+                    description:'Actualmente me encuentro desarrollando tareas de diseño y desarrollo de frontends para iniciativas relacionadas con la seguridad',
+                    leftTitle:'Ciudad Autónoma de BuenosAires, Argentina',
+                },
+                {
                     title:'Codea IT',
                     subTitle:'Full-Stack web developer',
                     from:'2019',
                     to:'Act.',
-                    description:'Actualmente me encuentro desempeñando el rol de desarrollador FullStack en diferentes proyectos usando una gran variedad de tecnologías como Angular 8, React with typescript, NodeJs, NET core, mongoDB, My SQL, entre otras.',
+                    description:'Desempeñé el rol de desarrollador FullStack en diferentes proyectos usando una gran variedad de tecnologías como Angular 8, React with typescript, NodeJs, NET core, mongoDB, My SQL, entre otras.',
                     leftTitle:'Ciudad Autónoma de BuenosAires, Argentina',
                 },
                 {
